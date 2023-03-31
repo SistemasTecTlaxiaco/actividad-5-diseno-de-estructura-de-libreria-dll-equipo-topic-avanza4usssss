@@ -1,0 +1,7 @@
+c:\users\saul\documents\visual studio 2012\Projects\Pruebacalc\Pruebacalc\bin\Debug\Pruebacalc.exe.config
+c:\users\saul\documents\visual studio 2012\Projects\Pruebacalc\Pruebacalc\bin\Debug\Pruebacalc.exe
+c:\users\saul\documents\visual studio 2012\Projects\Pruebacalc\Pruebacalc\bin\Debug\Pruebacalc.pdb
+c:\users\saul\documents\visual studio 2012\Projects\Pruebacalc\Pruebacalc\obj\Debug\Pruebacalc.exe
+c:\users\saul\documents\visual studio 2012\Projects\Pruebacalc\Pruebacalc\obj\Debug\Pruebacalc.pdb
+C:\Users\SAUL\Documents\Visual Studio 2012\Projects\Pruebacalc\Pruebacalc\obj\Debug\Pruebacalc.Calculator.resources
+C:\Users\SAUL\Documents\Visual Studio 2012\Projects\Pruebacalc\Pruebacalc\obj\Debug\Pruebacalc.csproj.GenerateResource.Cache
